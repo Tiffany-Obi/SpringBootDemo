@@ -22,7 +22,7 @@ public class SpringBootDemoApplication {
 	 * We only need to tell spring where to find the JPA repositories
 	 */
 
-
+// this comment is just to make a change so i can update github
 
 
 	public static void main(String[] args) {
